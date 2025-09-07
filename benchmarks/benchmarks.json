@@ -1,0 +1,9 @@
+{
+  "python_backup_median_s": 0.0662238597869873,
+  "cpp_status": "ok",
+  "fortran_status": "ok",
+  "cpp_output": "C++ Bellman backup completed. Example: policy_idx[60][3]=0\nC++ total time (REPS=200): 0.0883776 s\nC++ per-sweep time: 0.000441888 s\n",
+  "fortran_output": " Fortran Bellman backup completed. Example: policy(61,4)=           1\n Fortran total time (reps=         200 ):    7.9772999999999997E-002  s\n Fortran per-sweep time:    3.9886499999999998E-004  s\n",
+  "cpp_per_sweep_s": 0.000441888,
+  "fortran_per_sweep_s": 0.000398865
+}

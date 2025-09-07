@@ -1,0 +1,1 @@
+import numpy as np; print("VAR(1) demo placeholder")
