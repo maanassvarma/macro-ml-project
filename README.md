@@ -1,5 +1,4 @@
 
-````markdown
 # ML-Augmented Real Business Cycle (RBC) Model
 
 Compact research-style repo for a nonlinear RBC (stochastic growth) model solved via Value Function Iteration (VFI), plus:
