@@ -91,4 +91,3 @@ From `make bench` and kernel timers:
 * King & Rebelo (1999), *Resuscitating Real Business Cycles*, Handbook of Macroeconomics.
 * Tauchen (1986), *Finite-state Markov-chain approximations…*, Economics Letters.
 
-```
